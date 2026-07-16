@@ -159,7 +159,7 @@ body{
     justify-content: space-between;
     padding: 40px 140px;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 60px;
 }
 
 .cards {
@@ -185,7 +185,7 @@ body{
     font-size: 19px;
     width: fit-content;
     background-color: greenyellow;
-    width: 38%;
+    width: 100%;
     border-radius: 5px;
 }
 
